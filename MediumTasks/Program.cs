@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace String
+namespace MediumTasks
 {
     class Program
     {
